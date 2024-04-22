@@ -1,0 +1,173 @@
+body {
+    box-sizing: content-box;
+    width: 1290px;
+    border-color: black;
+    border-style: solid;
+    margin-left: -0.5px;
+    margin-top: -0.5px;
+}
+
+#Header-cname {
+    display: flex;
+    gap: 300px;
+    border-color: antiquewhite;
+    border-style: ridge;
+    width: 1264px;
+    padding-left: 20px;
+    position: fixed;
+    margin-top: -5px;
+    background-color: bisque;
+    margin-left: -0.5px;
+}
+
+#cname {
+    font-size: 20px;
+
+}
+
+#header-lst {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    cursor: grabbing;
+}
+
+
+#header-btn {
+    height: 45px;
+    width: 110px;
+    background-color: rgb(34, 139, 87);
+    border-radius: 5px;
+    margin-left: px;
+    margin-top: 5px;
+}
+
+#mi-lst {
+    list-style: none;
+    gap: 12px;
+    color: white;
+    display: flex;
+}
+
+#mi-lst-comp:hover,
+#mi-lst-comp:focus {
+    text-transform: capitalize;
+    background-color: brown;
+}
+
+#more-info {
+    background-color: black;
+    margin-top: 56.7px;
+    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#bm-i {
+    background-image: url(service-1_startup_template_D4tLR3Xd.webp);
+    margin-top: -50px;
+    padding-left: 20px;
+}
+
+#hype {
+    font-size: 60px;
+    color: rgba(15, 121, 72, 0.979);
+}
+
+#hire {
+    height: 45px;
+    width: 110px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+#work {
+    height: 45px;
+    width: 110px;
+    background-color: rgb(34, 139, 87);
+    border-radius: 5px;
+}
+
+#stats {
+    border-style: ridge;
+    border-color: silver;
+    margin-left: 200px;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+
+#alservice {
+    margin-left: 140px;
+    ;
+    gap: 20px;
+}
+
+#als-p {
+    padding-left: 400px;
+}
+
+#service {
+    height: 500px;
+    border-style: ridge;
+    border-color: silver;
+    border-radius: 25px;
+}
+
+#inservice {
+    box-sizing: content-box;
+    width: 300px;
+    justify-content: center;
+    margin-top: -100px;
+
+}
+
+#insimg {
+    border-radius: 5px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+#lastservice {
+    margin-left: 550px;
+    width: 110px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#pricing {
+    display: flex;
+    gap: 20px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+#pric-p {
+    text-align: center;
+}
+
+#rat {
+    margin-left: 50px;
+    width: 180px;
+    height: 40px;
+    background-color: green;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#trial {
+    background-color: blanchedalmond;
+    width: 900px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sign {
+    background-color: green;
+    border-radius: 25px;
+
+}
